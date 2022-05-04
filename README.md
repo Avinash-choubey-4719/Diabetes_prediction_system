@@ -6,9 +6,6 @@ Importing modules/libraries/packages...........
 
 
 
-//////Reading data and division///////
-![image](https://user-images.githubusercontent.com/104202659/166723076-7c7af9fe-f421-4721-8e02-232a289527ee.png)
-
 
 
 /////////model selection////////
